@@ -1041,11 +1041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Usuario\\Desktop\\Nat1p\\Projetos\\Microsservices\\Catalog.API\\Catalog.API.csproj",
+      "projectUniqueName": "C:\\Users\\Suporte Upper\\Nat1p\\Projetos\\Microsservices\\Catalog.API\\Catalog.API.csproj",
       "projectName": "Catalog.API",
-      "projectPath": "E:\\Usuario\\Desktop\\Nat1p\\Projetos\\Microsservices\\Catalog.API\\Catalog.API.csproj",
+      "projectPath": "C:\\Users\\Suporte Upper\\Nat1p\\Projetos\\Microsservices\\Catalog.API\\Catalog.API.csproj",
       "packagesPath": "C:\\Users\\Suporte Upper\\.nuget\\packages\\",
-      "outputPath": "E:\\Usuario\\Desktop\\Nat1p\\Projetos\\Microsservices\\Catalog.API\\obj\\",
+      "outputPath": "C:\\Users\\Suporte Upper\\Nat1p\\Projetos\\Microsservices\\Catalog.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
