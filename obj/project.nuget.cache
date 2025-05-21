@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jjnk2Q8picw=",
+  "dgSpecHash": "QirrhcFh/MM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Suporte Upper\\Nat1p\\Projetos\\Microsservices\\Catalog.API\\Catalog.API.csproj",
+  "projectFilePath": "E:\\Usuario\\Desktop\\Nat1p\\Projetos\\Microsservices\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Suporte Upper\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Suporte Upper\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

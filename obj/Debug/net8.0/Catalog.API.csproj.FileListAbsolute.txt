@@ -35,3 +35,40 @@ C:\Users\Suporte Upper\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.
 C:\Users\Suporte Upper\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\Catalog.API.pdb
 C:\Users\Suporte Upper\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\Catalog.API.genruntimeconfig.cache
 C:\Users\Suporte Upper\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\ref\Catalog.API.dll
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\appsettings.json
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\Catalog.API.staticwebassets.endpoints.json
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\Catalog.API.exe
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\Catalog.API.deps.json
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\Catalog.API.runtimeconfig.json
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\Catalog.API.dll
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\Catalog.API.pdb
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\DnsClient.dll
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\SharpCompress.dll
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\Snappier.dll
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\bin\Debug\net8.0\ZstdSharp.dll
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\Catalog.API.csproj.AssemblyReference.cache
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\Catalog.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\Catalog.API.AssemblyInfoInputs.cache
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\Catalog.API.AssemblyInfo.cs
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\Catalog.API.csproj.CoreCompileInputs.cache
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\Catalog.API.sourcelink.json
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\scopedcss\bundle\Catalog.API.styles.css
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\Catalog..F07FDCDC.Up2Date
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\Catalog.API.dll
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\refint\Catalog.API.dll
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\Catalog.API.pdb
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\Catalog.API.genruntimeconfig.cache
+E:\Usuario\Desktop\Nat1p\Projetos\Microsservices\Catalog.API\obj\Debug\net8.0\ref\Catalog.API.dll
