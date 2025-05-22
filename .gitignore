@@ -1,8 +1,31 @@
-obj/
-bin/
+# Arquivos de build e execução
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Configurações do Visual Studio
 .vs/
 *.suo
 *.user
+*.userosscache
+*.sln.docstates
+
+# Logs e diagnósticos
 *.log
-*.cache
-*.pdb
+*.tmp
+[Tt]emp/
+
+# Dependências (se usar NuGet)
+[Nn]uget/[Pp]ackages/
+*.nupkg
+packages/
+
+# Configurações de ambiente (não versionar arquivos locais)
+appsettings.Development.json
+launchSettings.json
+
+# Docker (se aplicável)
+docker-compose.override.yml
