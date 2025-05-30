@@ -25,7 +25,5 @@ packages/
 
 # Configurações de ambiente (não versionar arquivos locais)
 appsettings.Development.json
-launchSettings.json
+*/Properties/launchSettings.json
 
-# Docker (se aplicável)
-docker-compose.override.yml
